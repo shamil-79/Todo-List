@@ -1,0 +1,57 @@
+.body-container{
+    background-color: rgb(0, 0, 0);
+    width: 90vw;
+    margin: 25px auto;
+    padding: 20px;
+    font-family: monospace;
+}
+.head{
+    font-size: 250%;
+    text-align: center;
+    color:rgba(255, 255, 255, 0.723)
+}
+.input-container{
+    background-color:rgb(240, 115, 12);
+    padding: 15px;
+    
+    border: 2px solid rgb(14, 123, 166);
+}
+.input{
+    font-family:'Times New Roman', Times, serif;
+    border: 1px;
+    border-radius: 10%;
+    padding: 5px;
+    margin: 10px;
+    width: 500px;
+    background-color: rgba(219, 219, 219, 0.816);
+}
+.Add{
+    
+    font-family:'Times New Roman', Times, serif;
+    margin: 5px;
+    padding: 3px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(110, 189, 92);
+    color: rgb(255, 255, 255);
+}
+.list-task{
+    background-color: rgba(219, 219, 219, 0.816);
+    padding: 10px;
+    border-radius: 5%;
+    border: 2px solid rgb(189, 150, 92);
+    color: rgb(51, 51, 51);
+    margin: 25px;
+    font-family:'Times New Roman', Times, serif;
+}
+.dlt-btn{
+    border-radius: 4px;
+    float: right;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 100px;
+    padding: 3px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+}
